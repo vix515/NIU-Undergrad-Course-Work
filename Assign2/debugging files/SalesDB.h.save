@@ -1,0 +1,41 @@
+
+#ifndef SALESDB_H
+   #define SALESDB_H
+                  #include "Seller.h"
+
+
+   class SalesDB
+   {
+   private:
+
+        Seller object[30];
+        int amount;
+   public:
+        SalesDB();
+        SalesDB(const char* );
+        void print();
+
+
+   };
+#endif#ifndef SALESDB_H
+   #define SALESDB_H
+		  #include "Seller.h"
+		  
+
+   class SalesDB
+   {
+   private:
+   	
+   	Seller object[30];
+   	int amount;
+   public:	
+   	SalesDB();
+	SalesDB(const char* );
+	void print();
+	
+   
+   };
+#endif
+	
+
+

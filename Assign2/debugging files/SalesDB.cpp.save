@@ -1,0 +1,39 @@
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+#include <cassert> 
+#include "SalesDB.h"
+using namespace std;
+
+
+	SalesDB::SalesDB()
+	{
+		
+	}
+	
+	SalesDB::SalesDB(const char* value)
+	{
+		amount = 0;
+		ifstream inFile;
+		inFile.open(value, ios::binary);
+		assert(inFile);
+		
+		inFile.read((char*) this, sizeof(SalesDB));
+		
+	}
+	
+
+void SalesDB::print()
+	{
+		int i = sizeof(object[0]);
+		int a = sizeof(object[29]);
+		int b = sizeof(SalesDB)/sizeof(object);
+		cout<<"0  : "<<i<<endl;
+		cout<<"Amoutn is : "<< amount << endl;
+		cout<<"29 : "<< b << endl;
+		for( int i=0; i < 30; i++)
+		object[i].print();
+	}
+	
+
+

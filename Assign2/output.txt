@@ -1,0 +1,89 @@
+Sales DataBase Listing
+
+Name                          Sales     
+
+Billick, Lance                   783.33
+Burdge, Clayton                  101.35
+Burruel, Erik                   4839.12
+Caraveo, Lorrie                 1019.45
+Christoff, Ted                  1204.95
+Dauber, Tabatha                 8349.55
+Deforge, Nannie                 8934.43
+Glessner, Mathew                3943.32
+Helberg, John                   3320.99
+Hoops, Allan                     874.97
+Jones, Ann                      3825.85
+Limas, Kelly                    7493.15
+Marciniak, Hugh                 7374.23
+Martinez, Roger                 2783.32
+Martucci, Cody                  3847.90
+Monroig, Harriett               1938.02
+Oestreich, Darryl               1994.55
+Piekarski, Neil                 5562.44
+Rollman, Ken                     914.97
+Shuttleworth, Penelope          3921.29
+Smith, John                     1205.78
+Sugg, Louisa                    8373.22
+Tekulve, Hillary                2392.34
+
+
+Sales Transactions
+
+Glessner, Mathew 914.23
+Helberg, John 307.34
+Shuttleworth, Penelope 192.34
+Burdge, Clayton 410.35
+Rollman, Ken 1400.34
+Caraveo, Lorrie 519.65
+Jones, Ann 342.78
+Burdge, Clayton 431.35
+Martinez, Roger 286.42
+Limas, Kelly 793.41
+There is not such name
+Monroig, Harriett 1382.50
+Dauber, Tabatha 349.65
+Tekulve, Hillary 392.34
+Billick, Lance 1736.38
+Deforge, Nannie 921.48
+Caraveo, Lorrie 1239.54
+Burdge, Clayton 1201.32
+Christoff, Ted 204.55
+Marciniak, Hugh 332.44
+Hoops, Allan 537.79
+Martucci, Cody 384.20
+Burruel, Erik 639.62
+Marciniak, Hugh 374.23
+Monroig, Harriett 1228.52
+Limas, Kelly 493.15
+Shuttleworth, Penelope 321.29
+Sugg, Louisa 313.21
+Burdge, Clayton 131.35
+
+
+Sales DataBase Listing
+
+Name                          Sales     
+
+Billick, Lance                  2519.71
+Burdge, Clayton                 2275.72
+Burruel, Erik                   5478.74
+Caraveo, Lorrie                 2778.64
+Christoff, Ted                  1409.50
+Dauber, Tabatha                 8699.20
+Deforge, Nannie                 9855.91
+Glessner, Mathew                4857.55
+Helberg, John                   3628.33
+Hoops, Allan                    1412.76
+Jones, Ann                      4168.63
+Limas, Kelly                    8779.71
+Marciniak, Hugh                 8080.90
+Martinez, Roger                 3069.74
+Martucci, Cody                  4232.10
+Monroig, Harriett               4549.04
+Oestreich, Darryl               1994.55
+Piekarski, Neil                 5562.44
+Rollman, Ken                    2315.31
+Shuttleworth, Penelope          4434.92
+Smith, John                     1205.78
+Sugg, Louisa                    8686.43
+Tekulve, Hillary                2784.68
