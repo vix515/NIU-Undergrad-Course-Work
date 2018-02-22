@@ -1,0 +1,74 @@
+Sales DataBase Listing
+
+
+Eastern Region
+
+Name                          Sales     
+
+Smith, John                     1205.78
+Jones, Ann                      3825.85
+Martinez, Roger                 2783.32
+Monroig, Harriett               1938.02
+Hoops, Allan                     874.97
+Martucci, Cody                  3847.90
+
+Midwestern Region
+
+Name                          Sales     
+
+Burruel, Erik                   4839.12
+Limas, Kelly                    7493.15
+Billick, Lance                   783.33
+Deforge, Nannie                 8934.43
+Christoff, Ted                  1204.95
+Helberg, John                   3320.99
+
+Western Region
+
+Name                          Sales     
+
+Rollman, Ken                     914.97
+Caraveo, Lorrie                 1019.45
+Shuttleworth, Penelope          3921.29
+Marciniak, Hugh                 7374.23
+Dauber, Tabatha                 8349.55
+Tekulve, Hillary                2392.34
+
+
+
+
+Sales DataBase Listing
+
+
+Eastern Region
+
+Name                          Sales     
+
+Smith, John                     1616.13
+Jones, Ann                      4168.63
+Martinez, Roger                 3069.74
+Monroig, Harriett               4549.04
+Hoops, Allan                    1725.97
+Martucci, Cody                  4232.10
+
+Midwestern Region
+
+Name                          Sales     
+
+Burruel, Erik                   5478.74
+Limas, Kelly                    8779.71
+Billick, Lance                  2860.06
+Deforge, Nannie                11057.23
+Christoff, Ted                  1840.85
+Helberg, John                   3628.33
+
+Western Region
+
+Name                          Sales     
+
+Rollman, Ken                    2446.66
+Caraveo, Lorrie                 2778.64
+Shuttleworth, Penelope          4434.92
+Marciniak, Hugh                 8995.13
+Dauber, Tabatha                 8699.20
+Tekulve, Hillary                2784.68
