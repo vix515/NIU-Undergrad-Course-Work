@@ -1,0 +1,34 @@
+Testing constructor... done
+Testing default constructor use... done
+
+Testing stream insertion operator and constructors...
+c1 = ( 23, 34 )
+c2 = ( 0, 0 )
+
+Testing get methods...
+Real part of c4 = 3
+Imaginary part of c4 = 4
+Real part of c4 = 3
+Imaginary part of c4 = 4
+
+Testing set methods...
+New value of c2 = ( 3.7, 2.5 )
+New value of c2 = ( -1.4, 2.5 )
+New value of c2 = ( -1.4, 83 )
+
+Testing stream extraction operator...
+Enter a complex number in the form (a, b) New value of c2 = ( 8, 4 )
+
+Testing addition operator...
+c3 = ( 26, 38 )
+( 3, 4 ) + ( 23, 34 ) = ( 26, 38 )
+( 3, 4 ) + ( 3, 4 ) = ( 6, 8 )
+
+Testing multiplication operator...
+c3 = ( -67, 194 )
+( 3, 4 ) * ( 23, 34 ) = ( -67, 194 )
+( 3, 4 ) * ( 3, 4 ) = ( -7, 24 )
+
+Testing equality operator...
+( 23, 34 ) and ( -67, 194 ) are not equal
+( 3, 4 ) and ( 3, 4 ) are equal
