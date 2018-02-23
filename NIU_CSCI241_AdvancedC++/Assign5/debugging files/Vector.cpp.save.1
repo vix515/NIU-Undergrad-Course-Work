@@ -1,0 +1,54 @@
+#include <iostream>
+#include <iomanip>
+#include <cassert>
+
+#include "Vector.h"
+
+using namespace std;
+
+Vector::Vector()
+{
+	vectorSize = 0;
+	vectorCapacity = 0;
+}
+
+ostream & operator<<(ostream & cpy, const Vector org)
+{
+	for( int sub = 0; sub < org.size(); sub++ )
+	{
+		cpy << org.ptr[sub] << " ";
+	}
+	return cpy;
+}
+
+size_t Vector::size() const
+{
+	return vectorSize;
+}
+
+size_t Vector::capacity() const
+{
+	return vectorCapacity;
+}
+
+bool Vector::empty() const
+{
+	if(vectorSize == 0)
+		return true;
+	else
+		return false;
+}
+
+/*void Vector::push_back(int item)
+{
+	if(vectorSize == vectorCapacity)
+		reserve((2*capacity));
+	if(vectorCapacity == 0)
+		reserve(1);
+	else
+		for()
+		{
+			this.ptr[vectorSize] = item;
+		}
+}*/
+

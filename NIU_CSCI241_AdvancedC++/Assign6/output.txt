@@ -1,0 +1,124 @@
+Testing default constructor
+
+q1: 
+q1 size: 0
+q1 capacity: 0
+q1 is empty
+
+Testing push()
+
+q1: 10 20 30 40 50 60 70 
+q1 size: 7
+q1 capacity: 8
+q1 is not empty
+
+Testing pop()
+
+q1: 40 50 60 70 
+q1 size: 4
+q1 capacity: 8
+q1 is not empty
+
+Testing wrap-around on push()
+
+q1: 40 50 60 70 2 4 6 8 
+q1 size: 8
+q1 capacity: 8
+q1 is not empty
+
+Testing wrap-around on pop()
+
+q1: 6 8 
+q1 size: 2
+q1 capacity: 8
+q1 is not empty
+
+Testing queue resize on push()
+
+q1: 6 8 5 10 15 20 25 30 35 40 45 50 55 60 65 
+q1 size: 15
+q1 capacity: 16
+q1 is not empty
+
+Testing copy constructor()
+
+q1: 6 8 5 10 15 20 25 30 35 40 45 50 55 60 65 
+q1 size: 15
+q1 capacity: 16
+q1 is not empty
+
+q2: 6 8 5 10 15 20 25 30 35 40 45 50 55 60 65 
+q2 size: 15
+q2 capacity: 16
+q2 is not empty
+
+Testing front() and back()
+
+Front item of q1: 6
+Front item of q2: 6
+
+Rear item of q1: 65
+Rear item of q2: 65
+
+q1: 6 8 5 10 15 20 25 30 35 40 45 50 55 60 65 
+q1 size: 15
+q1 capacity: 16
+q1 is not empty
+
+q2: 6 8 5 10 15 20 25 30 35 40 45 50 55 60 65 
+q2 size: 15
+q2 capacity: 16
+q2 is not empty
+
+Testing pop() to empty
+
+6 8 5 10 15 20 25 30 35 40 45 50 55 60 65 
+q1 size: 0
+q1 capacity: 16
+q1 is empty
+
+Testing assignment operator
+
+q2 (size 15): 6 8 5 10 15 20 25 30 35 40 45 50 55 60 65 
+q3 (size 15): 6 8 5 10 15 20 25 30 35 40 45 50 55 60 65 
+
+Testing clear()
+
+q2 (size 0): 
+q3 (size 15): 6 8 5 10 15 20 25 30 35 40 45 50 55 60 65 
+
+Testing assignment to self and swap
+
+q2 (size 15): 6 8 5 10 15 20 25 30 35 40 45 50 55 60 65 
+q3 (size 0): 
+
+Testing chained assignment
+
+q2 (size 15): 6 8 5 10 15 20 25 30 35 40 45 50 55 60 65 
+q3 (size 15): 6 8 5 10 15 20 25 30 35 40 45 50 55 60 65 
+q4 (size 15): 6 8 5 10 15 20 25 30 35 40 45 50 55 60 65 
+
+Testing const correctness
+
+q4: 6 8 5 10 15 20 25 30 35 40 45 50 55 60 65 
+q4 size: 15
+q4 capacity: 16
+q4 is not empty
+Front item of q4: 6
+Rear item of q4: 65
+
+q1: 6 8 5 10 15 20 25 30 35 40 45 50 55 60 65 
+q1 size: 15
+q1 is not empty
+
+Testing front() with empty queue
+
+Caught queue underfow on front()
+
+Testing back() with empty queue
+
+Caught queue underflow on back()
+
+Testing pop() with empty queue
+
+Caught queue underflow on pop()
